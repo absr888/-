@@ -1,0 +1,25 @@
+# 数据采集和处理
+pandas==1.5.3
+numpy==1.24.3
+requests==2.31.0
+ccxt==3.0.74
+
+# 数据存储
+sqlite3-api==0.1.0
+
+# 数据分析
+scikit-learn==1.2.2
+ta-lib==0.4.26
+
+# 可视化
+matplotlib==3.7.1
+seaborn==0.12.2
+plotly==5.14.1
+
+# Web界面
+flask==2.3.2
+flask-cors==3.0.10
+
+# 其他工具
+python-dotenv==1.0.0
+tqdm==4.65.0
